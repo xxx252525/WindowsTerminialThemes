@@ -17,14 +17,17 @@ WindowsTerminialThemes是一个集合了多种样式的的配置文件。
 大约100种样式等你探索。
 
 ## 配置操作
-1 下载仓库的setting.josn配置文件。
+下载仓库的setting.josn配置文件。
 - Download the setting.josn configuration file for the repository.
+
 ![image](https://github.com/user-attachments/assets/962a2adc-89ea-4768-a29d-dc47cdc47015)
 ---
-2 然后在外部资源管理器打开该文件：
+然后在外部资源管理器打开该文件：
 - Then open the file in an external explorer:
+
 ![image](https://github.com/user-attachments/assets/bd1345d8-0b68-4e0a-8501-087138c45740)
 ---
-3 然后替换原有的文件：
+然后替换原有的文件：
 - Then replace the original file:
+
 ![image](https://github.com/user-attachments/assets/8c3d74da-c04c-406e-9435-2141ebb613ef)
