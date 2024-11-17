@@ -1,7 +1,7 @@
 # WindowsTerminialThemes
 ## 介绍
 WindowsTerminialThemes是一个集合了多种样式的的配置文件。
-WindowsTerminialThemes is a collection of profiles of various styles.
+- WindowsTerminialThemes is a collection of profiles of various styles.
 
 ### 样图
 样式内容如下：
